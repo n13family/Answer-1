@@ -37,3 +37,5 @@ lalu loop array dimensi pertama untuk menuju dimensi ke 2 dan lakukan sort ascen
 
 soal nomor 5
 saya hanya mengambil 32 string pertama dari random hash sha1
+![alt text](https://lh6.googleusercontent.com/tmCoFKc_6-_uJQran9m7JKmBYa5Zo84WiZoUzqSToNs63PLnfSYnyjBvVnB2N7hV1oTlHdo5SBwR5U3W8mnq=w1366-h667-rw)
+![alt text](https://lh5.googleusercontent.com/PM15kW4sMhBh5HM-iBlNBpQJZ7hgy5Ltb_hv9sEhI3qHIbjzrIP084Qlx8E1250UJ0XzaiSs1Z6fy6c0_Zj2=w1366-h667-rw)
