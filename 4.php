@@ -1,32 +1,13 @@
 <?php
-			function sort1($a, $b)
-			{
-
-			    if ($a == $b) {
-			        return 0;
-
-			    }
-
-			    return (count($a) < count($b)) ? -1 : 1;
-
-			}
-
 			function sort_array($array){
-
-			usort($array, 'sort1');
+			sort($array);
 			$arr = array();
-
 			foreach($array as $sorting){
-
-					asort($sorting);
+					sort($sorting);
 					$arr[] = $sorting;
-
 			}
-
 			return $arr;
-
 			}
-
 			$array = array(
 					array(
 						"g",
