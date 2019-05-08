@@ -15,7 +15,7 @@ function biodata($name, $address, $hobbies, $is_married, $school, $skills){
 }
 
 		$name = "Bambang Priyanto";
-		$address = "JL ITIK XIII BLOK I PTI NO 41, BEKASI , JAWA BARAT, 17158";
+		$address = "";
 		$hobbies = array(
 			"Coding",
 			"Playing a game"
